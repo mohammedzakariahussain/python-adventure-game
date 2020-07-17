@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+
+* {
+    background-color:whitesmoke;
+    text-align: center;
+    color: black;
+    font-family: 'Major Mono Display', monospace;
+
+}
